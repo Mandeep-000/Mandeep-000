@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mandeep Pareek
+- 👋 Hi, I’m @Mandeep-000
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJs and Node.js
 - 📫 How to reach me p.mandeep0402@gmail.com
